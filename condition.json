@@ -1,0 +1,7 @@
+{
+    "from": "192.168.1.1",
+    "from-port": "",
+    "protocol": "tcp",
+    "destination": "192.168.2.1",
+    "destination-port": "445"
+}
